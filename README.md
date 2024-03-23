@@ -89,6 +89,10 @@
   <a href="https://www.sqlite.org/">
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
   </a>
+	&emsp;
+  <a href="https://www.microsoft.com/sql-server">
+    <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+  </a>
   &emsp;
   <a href="https://www.github.com">
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white">
