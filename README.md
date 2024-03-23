@@ -13,9 +13,8 @@
 ## About Me :
 
 - 🏢 I am currently working as a **Desarrollador Web** at [NT Comunicaciones y Tecnologia](https://ntcomunicaciones.com/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
+- 🎓 Studies for Computacion e Informatica at [Instituto Tecnologico Cibertec](https://www.cibertec.edu.pe/)
+- 🏡'Lives in **San Juan de Lurigancho - Lima - Perú**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
