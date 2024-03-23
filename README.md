@@ -147,9 +147,6 @@
   <a href
 
 
-
-
----
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
