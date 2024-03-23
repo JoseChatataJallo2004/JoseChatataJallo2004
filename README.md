@@ -11,8 +11,8 @@
 ## Connect with me ☕ :
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jose-manuel-chatata-jallo-0476b4271/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href="https://api.whatsapp.com/send?phone=51919612862&text=Hola%20Jose%20Manuel" target="blank"><img align="center" src="https://img.shields.io/badge/Phone-008000?style=for-the-badge&logo=phone&logoColor=white" alt="51 919612862"  /></a>
+<a href="https://www.linkedin.com/in/jose-manuel-chatata-jallo-0476b4271/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jose Manuel Chatata Jallo"/></a>
+<a href="https://api.whatsapp.com/send?phone=51919612862&text=Hola%20Jose%20Manuel" target="blank"><img align="center" src="https://img.shields.io/badge/Celular-00FF00?style=for-the-badge&logo=phone&logoColor=white" alt="51 919612862"  /></a>
 <a href = "jchatatajallogmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@jchatatajallogmail.com"  /></a>
   </p>
 
