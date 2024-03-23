@@ -30,125 +30,141 @@
 <br>
 
 
-## 🛠️ Mis habilidades
-
-### 👉 Lenguajes de programación
+### 👉 Desarrollo de aplicaciones y arquitectura técnica
 
 <p align="left">
   &emsp;
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank">
+  <a href="#">
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
-</p>
-
-### 👉 Desarrollo front-end
-
-<p align="left">
-  &emsp;
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://getbootstrap.com" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
-</p>
-
-### 👉 Bases de datos y alojamiento en la nube
-
-<p align="left">
-  &emsp;
-  <a href="https://www.mysql.com/">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.sqlite.org/">
-    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
-  </a>
-	&emsp;
-  <a href="https://www.microsoft.com/sql-server">
-    <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://www.github.com">
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.heroku.com/">
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://firebase.google.com/">
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white">
-  </a>
-</p>
-
-### 👉 Diseño gráfico
-
-<p align="left">
-  &emsp;
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank">
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe%20Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank">
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank">
-    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
+  <a href="#">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
   </a>
   &emsp;
   <a href="#">
-    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-%23512BD4.svg?logo=.net&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt=".NET Core" src="https://img.shields.io/badge/.NET%20Core-%23512BD4.svg?logo=.net&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=spring&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="Programación por capas" src="https://img.shields.io/badge/Programación%20por%20capas-007396.svg">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="Arquitectura técnica" src="https://img.shields.io/badge/Arquitectura%20técnica-000000.svg">
   </a>
 </p>
 
-### 👉 Software y herramientas
+### 👉 Base de datos
 
 <p align="left">
   &emsp;
   <a href="#">
-    <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white">
+    <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?logo=microsoftsqlserver&logoColor=white">
   </a>
   &emsp;
   <a href="#">
-    <img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
   </a>
   &emsp;
   <a href="#">
-    <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?logo=mongodb&logoColor=white">
+  </a>
+</p>
+
+### 👉 Diseño web y front-end
+
+<p align="left">
+  &emsp;
+  <a href="#">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
   </a>
   &emsp;
-  <a href
+  <a href="#">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="JSON" src="https://img.shields.io/badge/JSON-%23000000.svg?logo=json&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="AJAX" src="https://img.shields.io/badge/AJAX-%230075FF.svg?logo=ajax&logoColor=white">
+  </a>
+</p>
+
+### 👉 Desarrollo móvil
+
+<p align="left">
+  &emsp;
+  <a href="#">
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%2369C57D.svg?logo=androidstudio&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt=".NET Core con Android" src="https://img.shields.io/badge/.NET%20Core%20con%20Android-%23512BD4.svg?logo=.net&logoColor=white">
+  </a>
+</p>
+
+### 👉 Generación de reportes
+
+<p align="left">
+  &emsp;
+  <a href="#">
+    <img alt="ReportViewer para .NET" src="https://img.shields.io/badge/ReportViewer%20para%20.NET-%23512BD4.svg?logo=.net&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="Jaspersoft para Java" src="https://img.shields.io/badge/Jaspersoft%20para%20Java-%23C0392B.svg?logo=jaspersoft&logoColor=white">
+  </a>
+</p>
+
+### 👉 Seguridad y modelado
+
+<p align="left">
+  &emsp;
+  <a href="#">
+    <img alt="Modelado de diseño de sistemas" src="https://img.shields.io/badge/Modelado%20de%20diseño%20de%20sistemas-%23008C9E.svg">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="Patrones de diseño MVC" src="https://img.shields.io/badge/Patrones%20de%20diseño%20MVC-%230A6E3C.svg">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="Modelado de procesos de negocio (BPMN)" src="https://img.shields.io/badge/Modelado%20de%20procesos%20de%20negocio%20(BPMN)-%23ED820E.svg">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="Seguridad de aplicaciones Kali Linux" src="https://img.shields.io/badge/Seguridad%20de%20aplicaciones%20Kali%20Linux-%23000000.svg">
+  </a>
+</p>
+
+### 👉 Herramientas de desarrollo
+
+<p align="left">
+  &emsp;
+  <a href="#">
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
+  </a>
+</p>
+
 
 
 <!-- GIF FOOTER -->
