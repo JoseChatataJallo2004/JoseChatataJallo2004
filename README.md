@@ -23,7 +23,9 @@
 
 <br>
 
- [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/jose-manuel-chatata-jallo-0476b4271/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+ [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/jose-manuel-chatata-jallo-0476b4271/) [![@anushka_wije]
+ [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")]([tel:0711971313](https://api.whatsapp.com/send?phone=51919612862&text=Hola%20Jose%20Manuel
+)) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](jchatatajallo@gmail.com)
 
 <br>
 
