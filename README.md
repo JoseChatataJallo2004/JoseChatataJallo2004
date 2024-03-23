@@ -8,7 +8,7 @@
 
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Jose Manuel Chatata</h1>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conectate conmigo
 <p align="center">
 	<a href="jchatatajallo@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/JoseChatataJallo2004"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -20,12 +20,12 @@
 
 
 
-## About Me :
+## Acerca de Mi :
 
-- 🏢 I am currently working as a **Desarrollador Web** at [NT Comunicaciones y Tecnologia](https://ntcomunicaciones.com/)
-- 🎓 Studies for Computacion e Informatica at [Instituto Tecnologico Cibertec](https://www.cibertec.edu.pe/)
-- 🏡'Lives in **San Juan de Lurigancho - Lima - Perú**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🏢 Actualmente estoy trabajando como  **Desarrollador Web** en  [NT Comunicaciones y Tecnologia](https://ntcomunicaciones.com/)
+- 🎓 Estudio la carrera de  Computacion e Informatica en [Instituto Tecnologico Cibertec](https://www.cibertec.edu.pe/)
+- 🏡'Vivo en  **San Juan de Lurigancho - Lima - Perú**
+- ⚡ **Datos curiosos** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
 
