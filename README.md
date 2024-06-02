@@ -22,7 +22,7 @@
 
 ## Acerca de Mi :
 
-- 🏢 Actualmente estoy trabajando como  **Desarrollador Web** en  [NT Comunicaciones y Tecnologia](https://ntcomunicaciones.com/)
+- 🏢 Actualmente estoy trabajando como  **Front End Developer** en  [CREATIVE MINER SOFT]
 - 🎓 Estudio la carrera de  Computacion e Informatica en [Instituto Tecnologico Cibertec](https://www.cibertec.edu.pe/)
 - 🏡'Vivo en  **San Juan de Lurigancho - Lima - Perú**
 - ⚡ **Datos curiosos** : 🍕 🏉 🏏 🎥 🚞
