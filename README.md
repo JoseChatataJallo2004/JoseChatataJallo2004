@@ -22,7 +22,9 @@
 
 ## Acerca de Mi :
 
-- 🏢 Actualmente estoy trabajando como  **Front End Developer** en  [CREATIVE MINER SOFT](https://minersoftperu.pe/)
+- 🏢 Actualmente estoy trabajando como  **Desarrollador .Net Junior** en  [Ibit Latam](https://ibit.pe/)
+- 🏢 Trabaje como  **Programador Junir** en  [MINER SOFT PERU](https://minersoftperu.pe/)
+- 🏢 Realize mis practicas Profesionales  como  **Practicante TI** en  [NT Comunicaciones Y Tecnologia](https://ntcomunicaciones.com/)
 - 🎓 Estudio la carrera de  Computacion e Informatica en [Instituto Tecnologico Cibertec](https://www.cibertec.edu.pe/)
 - 🏡'Vivo en  **San Juan de Lurigancho - Lima - Perú**
 - ⚡ **Datos curiosos** : 🍕 🏉 🏏 🎥 🚞
