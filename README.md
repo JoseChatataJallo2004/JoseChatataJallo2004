@@ -21,8 +21,8 @@
 
 
 ## Acerca de Mi :
-
-- 🏢 Actualmente estoy trabajando como  **Desarrollador de Software** en  [Ibit Latam](https://ibit.pe/)
+- 🏢 Actualmente estoy trabajando como  **Analista Programador** en  [Jurado Nacional de Elecciones](https://portal.jne.gob.pe/portal)
+- 🏢 Trabaje como  **Desarrollador de Software** en  [Ibit Latam](https://ibit.pe/)
 - 🏢 Trabaje como  **Programador Junir** en  [MINER SOFT PERU](https://minersoftperu.pe/)
 - 🏢 Realize mis practicas Profesionales  como  **Practicante TI** en  [NT Comunicaciones Y Tecnologia](https://ntcomunicaciones.com/)
 - 🎓 Estudie la carrera de  Computacion e Informatica en [Instituto Tecnologico Cibertec](https://www.cibertec.edu.pe/)
